@@ -64,7 +64,7 @@ Recommended System Requirements:
 
 ## Customization
 
-To use different LLM models, select them from the OLLAMA application and update the 'model' field in the [llama2.py](https://github.com/nihalanas/risk_assessment/blob/main/llama2.py) file.
+To use different LLM models, select them from the OLLAMA application and update the 'model' field in the [llama2.py](llama2.py) file.
 
 ## Note
 
